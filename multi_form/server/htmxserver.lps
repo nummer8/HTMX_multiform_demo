@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units Count="5">
+      <Unit0>
+        <Filename Value="htmxserver.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="10"/>
+        <CursorPos X="61" Y="27"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="dmrpc.pas"/>
+        <ComponentName Value="UsersModule"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="DataModule"/>
+        <UnitName Value="dmRPC"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="20"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="C:\Lazarus\laz_stable\fpcsrc\packages\fcl-web\src\base\fpmimetypes.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="51"/>
+        <CursorPos X="15" Y="60"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="C:\Lazarus\laz_trunk\fpcsrc\packages\fcl-web\src\base\httpdefs.pp"/>
+        <UnitName Value="HTTPDefs"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="580"/>
+        <CursorPos X="57" Y="554"/>
+        <UsageCount Value="11"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="C:\Lazarus\laz_trunk\fpcsrc\packages\fcl-web\src\base\fpwebfile.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="121"/>
+        <CursorPos X="11" Y="133"/>
+        <UsageCount Value="10"/>
+      </Unit4>
+    </Units>
+    <JumpHistory Count="7" HistoryIndex="6">
+      <Position1>
+        <Filename Value="htmxserver.lpr"/>
+        <Caret Line="31" Column="26" TopLine="19"/>
+      </Position1>
+      <Position2>
+        <Filename Value="htmxserver.lpr"/>
+        <Caret Line="11" Column="24" TopLine="10"/>
+      </Position2>
+      <Position3>
+        <Filename Value="htmxserver.lpr"/>
+        <Caret Line="22" Column="13" TopLine="6"/>
+      </Position3>
+      <Position4>
+        <Filename Value="htmxserver.lpr"/>
+        <Caret Line="24" Column="81" TopLine="5"/>
+      </Position4>
+      <Position5>
+        <Filename Value="htmxserver.lpr"/>
+        <Caret Line="25" Column="77"/>
+      </Position5>
+      <Position6>
+        <Filename Value="htmxserver.lpr"/>
+        <Caret Line="27" Column="91"/>
+      </Position6>
+      <Position7>
+        <Filename Value="htmxserver.lpr"/>
+        <Caret Line="26" Column="93" TopLine="7"/>
+      </Position7>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

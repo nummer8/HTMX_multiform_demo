@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Multi-form demo Project</title>
+  <link rel="stylesheet" href="bulma.min.css">
+  <script  src="/webwidget/js/htmx.min.js"></script>
+  <style>
+  .form-container {
+    min-height: 80vh;
+  }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="box">
+      <button class="button is-primary" id="btnLogin" hx-get="/webwidget/login.html" hx-target="#form-parent">Login</button>
+      <button class="button is-info" id="btnProjects" hx-get="/webwidget/projects.html" hx-target="#form-parent">Projects</button>
+      <button class="button is-info" id="btnUsers" hx-get="/webwidget/users.html"hx-target="#form-parent">Users</button>
+      <button class="button is-warning" id="btnOctolynx" hx-get="/webwidget/company.html" hx-target="#form-parent">Company</button>
+    </div>
+    <div class="box form-container" >
+      <div id="form-parent" >
+        <div class="notification is-info is-light">Click one of the buttons above.</div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,18 @@
+<section class="section">
+  <h1 id="pagetitle" class="title is-3">Project list</h1>
+  <table id="tblProjects" class="table is-striped is-narrow is-hoverable">
+    <thead id="tblHead">
+    <tr >
+      <th>
+      Project 
+      </th>
+      <th>
+      Due date
+      </th>
+    </tr>
+    </thead>
+    <tbody id="tblBody" hx-get="/projects" hx-target="this" hx-trigger="load" >
+    
+    </tbody>
+  </table>
+</section>
